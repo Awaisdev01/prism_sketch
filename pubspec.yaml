@@ -16,7 +16,7 @@ topics:
   - design-system
 
 environment:
-  sdk: ^3.5.0
+  sdk: ^3.14.0
 
 executables:
   prism_sketch:

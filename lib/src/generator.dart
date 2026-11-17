@@ -75,7 +75,9 @@ class CodeGenerator {
 //
 // Every component reads PrismTokens and PrismColors, so dropping your
 // theme onto MaterialApp styles the whole screen.
-import 'package:flutter/material.dart';
+//
+// Requires Flutter 3.50+ with the standalone design packages.
+import 'package:material_ui/material_ui.dart';
 import 'package:prism_kit/prism.dart';
 
 ''';
