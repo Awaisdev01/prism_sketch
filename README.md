@@ -1,6 +1,15 @@
-# prism_sketch
+<h1 align="center">✏️ prism_sketch</h1>
 
-Wireframe-to-code for the Prism ecosystem.
+<p align="center">
+  <b>Wireframe-to-code for the Prism ecosystem.</b><br/>
+  Describe a screen in plain English — get compilable <code>prism_kit</code> Flutter code.
+</p>
+
+<p align="center">
+  <a href="https://pub.dev/packages/prism_sketch"><img src="https://img.shields.io/pub/v/prism_sketch.svg?logo=dart&logoColor=white" alt="pub.dev"></a>
+  <a href="https://github.com/Awaisdev01/prism_sketch/actions"><img src="https://img.shields.io/github/actions/workflow/status/Awaisdev01/prism_sketch/ci.yml?branch=main&label=CI" alt="CI"></a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
+</p>
 
 Describe a screen in plain English. Get idiomatic `prism_kit` Flutter code —
 state fields, component wiring, tokens — as a complete, compilable file you
